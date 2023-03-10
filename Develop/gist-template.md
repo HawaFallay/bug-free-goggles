@@ -1,11 +1,10 @@
-# Title (replace with your title)
+# Title I am skipping this assignment:
 
 Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
-
+Unfortunately I am skipping this assignment
 ## Table of Contents
 
 - [Anchors](#anchors)
